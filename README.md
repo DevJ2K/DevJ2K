@@ -1,4 +1,6 @@
-### Welcome To DevJ2K Home Page 👋
+<h1 align="center"> - DevJ2K - </h1>
+
+<p align="center">Heyy, I'm DevJ2K !</p>
 
 ![DevJ2K's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJ2K&show_icons=true&theme=radical)
 
