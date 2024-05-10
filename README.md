@@ -1,10 +1,12 @@
 <h1 align="center"> - DevJ2K - </h1>
 
-<p align="center">Heyy, I'm DevJ2K !</p>
+<p align="center">Heyy, I'm DevJ2K ! Content is almost there ...</p>
 
+<!--
 ![DevJ2K's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJ2K&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJ2K&layout=compact&theme=gotham" length="100" width="375">
+-->
 
 <!--
 **DevJ2K/DevJ2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
