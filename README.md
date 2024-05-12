@@ -8,9 +8,8 @@
 - 📆 I'm coding since 2020.
 
 <h1></h1>
-<h1 align="center">My Story 📖</h1>
-<!-- <h3 align="center">My story</h3> -->
-<p align="">En 2020, j'ai découvert la programmation avec Python. Etant quelqu'un de plûtot créatif, j'ai adoré l'idée de pouvoir créer ce que l'on souhaite avec des lignes de code. Donc en parallèle de mes cours, j'ai continué d'apprendre de mon côté de nouveaux langages et créer plusieurs projets comme des bots Discord, des jeux, des outils, .. pour identifier ce qui me plaît le plus. En 2022, j'ai commencé à m'intéresser aux développements d'applications mobiles et j'ai donc commencé à apprendre à créer mes propres applications. Durant cette période, je cherchais un moyen de monétiser mes créations et j'ai pu développer une application mobile pour le business d'une de mes connaissances ! Mais c'était difficile d'approcher des clients sans projet concret ou études. Je me suis donc renseigné sur les écoles qui pourrait m'intéresserait après le bac et on m'a parlé de 42, qui est l'une des meilleurs écoles d'informatique. En Septembre 2023, j'ai donc passé le concours d'entrée (la piscine) et me voilà maintenant étudiant à 42. En Mars 2024, j'ai achevé le tronc commun et maintenant il faut se spécialiser. Donc j'ai continué ma lancée dans le mobile afin de faire de la freelance et à long terme j'envisage d'aller dans l'intelligence artificielle. Voilà mon histoire :)</p>
+<h1 align="center">Who Am I ? 📖</h1>
+<p align="center">I am a student at @42School in Paris. I've start to coding in 2020 with Python.</p>
 
 <h1></h1>
 <h1 align="center">Languages and frameworks ⌨</h1>
@@ -39,6 +38,11 @@
   </a>
 </p>
 
+<!--
+<h1></h1>
+<h1 align="center">My Story 📖</h1>
+<p align="">En 2020, j'ai découvert la programmation avec Python. Etant quelqu'un de plûtot créatif, j'ai adoré l'idée de pouvoir créer ce que l'on souhaite avec des lignes de code. Donc en parallèle de mes cours, j'ai continué d'apprendre de mon côté de nouveaux langages et créer plusieurs projets comme des bots Discord, des jeux, des outils, .. pour identifier ce qui me plaît le plus. En 2022, j'ai commencé à m'intéresser aux développements d'applications mobiles et j'ai donc commencé à apprendre à créer mes propres applications. Durant cette période, je cherchais un moyen de monétiser mes créations et j'ai pu développer une application mobile pour le business d'une de mes connaissances ! Mais c'était difficile d'approcher des clients sans projet concret ou études. Je me suis donc renseigné sur les écoles qui pourrait m'intéresserait après le bac et on m'a parlé de 42, qui est l'une des meilleurs écoles d'informatique. En Septembre 2023, j'ai donc passé le concours d'entrée (la piscine) et me voilà maintenant étudiant à 42. En Mars 2024, j'ai achevé le tronc commun et maintenant il faut se spécialiser. Donc j'ai continué ma lancée dans le mobile afin de faire de la freelance et à long terme j'envisage d'aller dans l'intelligence artificielle. Voilà mon histoire :)</p>
+-->
 
 <!--
 ---
