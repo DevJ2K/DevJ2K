@@ -1,6 +1,16 @@
-<h1 align="center"> - DevJ2K - </h1>
+<h1 align="center">Hey There, I'm DevJ2K ! 👋</h1>
+<p align="center">I am a student at @42School in Paris. I'm coding since 2020.</p>
 
-<p align="center">Heyy, I'm DevJ2K ! Content is almost there ...</p>
+---
+
+<h3 align="center">My language</p>
+<p align="center">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,flutter,c,cpp,firebase,py,js" />
+  </a>
+</p>
+<!-- <p align="center">Heyy, I'm DevJ2K ! Content is almost there ...</p> -->
 
 <!--
 ![DevJ2K's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJ2K&show_icons=true&theme=radical)
