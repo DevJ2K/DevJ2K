@@ -1,5 +1,9 @@
 <h1></h1>
-<h1 align="center">Hey There, I'm DevJ2K ! 👋</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=3500&color=7E3FF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hey+There%2C+I'm+DevJ2K+!+%F0%9F%91%8B" alt="Hey There, I'm DevJ2K ! 👋" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" /> -->
+</h1>
+<!-- <h1 align="center">Hey There, I'm DevJ2K ! 👋</h1> -->
 <p align="center">I am a student at @42School in Paris.</p>
 
 <!-- <a href="https://victorpreston.tech" target="_blank">**Website**</a> -->
