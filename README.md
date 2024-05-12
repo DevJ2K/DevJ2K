@@ -1,12 +1,36 @@
 <h1></h1>
 <h1 align="center">Hey There, I'm DevJ2K ! 👋</h1>
-<p align="center">I am a student at @42School in Paris. I'm coding since 2020.</p>
+<p align="center">I am a student at @42School in Paris.</p>
 
 <!-- <a href="https://victorpreston.tech" target="_blank">**Website**</a> -->
-- 🔭 I’m currently working on my portefolio and a todolist application.
-- 💬 In my free time, I like make 3D videos, play basketball and watch cars !
-- 📫 How to reach me : <a href="mailto:ajavontheopro@gmail.com">ajavontheopro@gmail.com</a>
-- 📆 I'm coding since 2020.
+<div align="center">
+
+🔭 I’m currently working on my portefolio and a todolist application.
+
+💬 In my free time, I like make 3D videos, play basketball and watch cars !
+
+📫 How to reach me : <a href="mailto:ajavontheopro@gmail.com">ajavontheopro@gmail.com</a>
+
+📆 Coding since 2020.
+  
+</div>
+
+<div align="center"> 
+  <a href="mailto:ajavontheopro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.instagram.com/devj2k">
+    <img src="https://img.shields.io/badge/Instagram-7C42EE?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/th%C3%A9o-ajavon-a43770268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<!--
 
 <h1></h1>
 <h2 align="center">Reach me 📫</h2>
@@ -15,7 +39,7 @@
 - **Twitter** : pending...
 - **Linkedin** : [**Théo Ajavon**](https://www.linkedin.com/in/th%C3%A9o-ajavon-a43770268/)
 - **Gmail** : <a href="mailto:ajavontheopro@gmail.com">**ajavontheopro@gmail.com**</a>
-
+-->
 
 <h1></h1>
 <h1 align="center">Who Am I ? 📖</h1>
