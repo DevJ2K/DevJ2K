@@ -2,10 +2,20 @@
 <h1 align="center">Hey There, I'm DevJ2K ! 👋</h1>
 <p align="center">I am a student at @42School in Paris. I'm coding since 2020.</p>
 
+<!-- <a href="https://victorpreston.tech" target="_blank">**Website**</a> -->
 - 🔭 I’m currently working on my portefolio and a todolist application.
 - 💬 In my free time, I like make 3D videos, play basketball and watch cars !
 - 📫 How to reach me : <a href="mailto:ajavontheopro@gmail.com">ajavontheopro@gmail.com</a>
 - 📆 I'm coding since 2020.
+
+<h1></h1>
+<h2 align="center">Reach me 📫</h2>
+
+- **Instagram** : [**DevJ2K**](https://www.instagram.com/devj2k) 
+- **Twitter** : pending...
+- **Linkedin** : [**Théo Ajavon**](https://www.linkedin.com/in/th%C3%A9o-ajavon-a43770268/)
+- **Gmail** : <a href="mailto:ajavontheopro@gmail.com">**ajavontheopro@gmail.com**</a>
+
 
 <h1></h1>
 <h1 align="center">Who Am I ? 📖</h1>
