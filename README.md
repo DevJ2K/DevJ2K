@@ -21,7 +21,7 @@
 
 <div align="center"> 
   <a href="mailto:ajavontheopro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Contact me-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.instagram.com/devj2k">
     <img src="https://img.shields.io/badge/Instagram-7C42EE?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -46,25 +46,25 @@
 -->
 
 <h1></h1>
-<h1 align="center">Who Am I ? 📖</h1>
+<h1 align="center">📖 Who Am I ? 📖</h1>
 <p align="center">I am a student at @42School in Paris. I've start to coding in 2020 with Python.</p>
 
 <h1></h1>
-<h1 align="center">Languages and frameworks ⌨</h1>
+<h1 align="center">⌨ Languages | Frameworks | Technos ⌨</h1>
 
-<h3 align="center">My favorite languages and frameworks</p>
+<h3 align="center">My favourites</p>
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,c,cpp,firebase,py,blender,js"/>
+    <img src="https://skillicons.dev/icons?i=swift,c,cpp,py,js,firebase"/>
   </a>
 </p>
 
-<h3 align="center">All languages and frameworks I've already seen</p>
+<h3 align="center">Those I've already worked with</p>
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,threejs,cs,php" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,threejs,cs,php,selenium" />
   </a>
 </p>
 
@@ -72,9 +72,10 @@
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,github,blender" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,figma,github,blender" />
   </a>
 </p>
+
 
 <!--
 <h1></h1>
