@@ -81,14 +81,13 @@ En 2020, j'ai découvert la programmation avec Python. En parallèle de mes cour
 
 ---
 
-<h1 align="center">My GitHub Stats</h1>
+<h1 align="center">📊 My GitHub Stats 📊</h1>
 <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devj2k&theme=tokyonight&border_radius=12&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devj2k&theme=tokyonight&border_radius=12&mode=weekly" alt="GitHub Streaks"/></a>
 
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="GitHub Streak" /></a> -->
 </div>
-
 
 <!--
 <h1></h1>
