@@ -33,8 +33,11 @@
     <img src="https://img.shields.io/badge/Malt-FB782D?style=for-the-badge&logo=malt&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-0C00BF?style=for-the-badge&logo=vuedotjs&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Fiverr-0EBF00?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" />
   </a>
+  <!-- <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-0C00BF?style=for-the-badge&logo=vuedotjs&logoColor=white" target="_blank" />
+  </a> -->
 </div>
 
 ---
