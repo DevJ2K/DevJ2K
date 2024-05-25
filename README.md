@@ -8,7 +8,11 @@
 <br/>
 <div align="">
 
-- 🔭 I’m currently working on : **My portefolio**.
+- 🏆 My current favorite programming language : **Swift**.
+
+- 🔭 I’m working on : **My portefolio**.
+
+- 📚 I love discovering new technos, so I'm currently learning : **Vue.js**.
 
 <!-- - 💬 In my free time, I like make 3D videos, play basketball and watch cars ! -->
 
