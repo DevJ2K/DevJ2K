@@ -12,7 +12,7 @@
 
 - 🔭 I’m working on : **My portefolio**.
 
-- 📚 I love discovering new technos, so I'm currently learning : **Vue.js**.
+- 📚 I love discovering new technos, so I'm currently learning : **Vue.js & TailwindCSS**.
 
 <!-- - 💬 In my free time, I like make 3D videos, play basketball and watch cars ! -->
 
@@ -64,7 +64,7 @@ En 2020, j'ai découvert la programmation avec Python. En parallèle de mes cour
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,c,cpp,py,js,firebase"/>
+    <img src="https://skillicons.dev/icons?i=swift,c,cpp,py,js,firebase,vuejs"/>
   </a>
 </p>
 <h1></h1>
