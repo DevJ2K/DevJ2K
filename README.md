@@ -127,7 +127,6 @@ En 2020, j'ai découvert la programmation avec Python. En parallèle de mes cour
 <details>
   <summary>GitHub Stats ⚡</summary>
   ![DevJ2K's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJ2K&show_icons=true&theme=radical)
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJ2K&layout=compact&theme=gotham" length="100" width="375">
 </details>
 -->
