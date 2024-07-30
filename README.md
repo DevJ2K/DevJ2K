@@ -54,6 +54,7 @@
 
 En 2020, j'ai découvert la programmation avec Python. En parallèle de mes cours, j'ai continué d'apprendre de nouveaux langages et créer plusieurs projets comme des bots Discord, des jeux, des outils, .. pour identifier ce qui me plaît le plus. En 2022, j'ai commencé à m'intéresser aux développements d'applications mobiles et j'ai donc commencé à apprendre à créer mes propres applications. Durant cette période, je cherchais un moyen de monétiser mes créations et j'ai pu développer une application mobile pour le business d'une de mes connaissances ! Mais c'était difficile d'approcher des clients sans projet concret ou études. Je me suis donc renseigné sur les écoles qui pourrait m'intéresserait après le bac et on m'a parlé de 
 <a href="https://42.fr/en/homepage/">42</a>, qui est l'une des meilleurs écoles d'informatique. En Septembre 2023, j'ai donc passé le concours d'entrée (la piscine) et me voilà maintenant étudiant à 42. En Mars 2024, j'ai achevé le tronc commun et maintenant il faut se spécialiser. Actuellement je continue ma lancée dans le developpement mobile afin de faire de la freelance et à long terme j'envisage d'aller dans l'intelligence artificielle ou le developpement logiciel. Voilà mon histoire :) 
+
 -->
 
 ---
