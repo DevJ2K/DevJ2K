@@ -39,9 +39,9 @@
   <a href="https://www.fiverr.com/theo_ajn/develop-an-ios-app-using-swiftui" target="_blank">
      <img src="https://img.shields.io/badge/Fiverr-0EBF00?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" />
   </a>
-  <!-- <a href="" target="_blank">
+  <a href="https://devj2k.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-0C00BF?style=for-the-badge&logo=vuedotjs&logoColor=white" target="_blank" />
-  </a> -->
+  </a>
 </div>
 
 ---
