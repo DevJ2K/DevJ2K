@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/devj2k" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-7C42EE?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/th%C3%A9o-ajavon-a43770268/" target="_blank">
+  <a href="www.linkedin.com/in/devj2k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.malt.fr/profile/theoajavon" target="_blank">
