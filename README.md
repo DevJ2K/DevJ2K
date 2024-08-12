@@ -10,9 +10,9 @@
 
 - 🏆 My current favorite programming language : **Swift**.
 
-- 🔭 I’m working on : **My portfolio**.
+- 🔭 I’m working on : **Computorv1 (School project)**.
 
-- 📚 I love discovering new technos, so I'm currently learning : **Vue.js & TailwindCSS**.
+<!-- - 📚 I love discovering new technos, so I'm currently learning : **API with Python**. -->
 
 <!-- - 💬 In my free time, I like make 3D videos, play basketball and watch cars ! -->
 
