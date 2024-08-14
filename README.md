@@ -24,7 +24,7 @@
 <br />
 
 <div align="center"> 
-  <a href="mailto:ajavontheopro@gmail.com">
+  <a href="mailto:contact@devj2k.com">
     <img src="https://img.shields.io/badge/Contact me-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/devj2k" target="_blank">
