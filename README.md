@@ -10,7 +10,7 @@
 
 - 🏆 My current favorite programming language : **Python**.
 
-- 🔭 I’m working on : **WebApp Template**.
+- 🔭 I’m working on : **Computorv1**.
 
 <!-- - 📚 I love discovering new technos, so I'm currently learning : **API with Python**. -->
 
