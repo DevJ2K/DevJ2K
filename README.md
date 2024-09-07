@@ -10,7 +10,7 @@
 
 - 🏆 My current favorite programming language : **Python**.
 
-- 🔭 I’m working on : **Computorv1**.
+- 🔭 I’m working on : **Rubik**.
 
 - 📆 Coding since 2020.
   
