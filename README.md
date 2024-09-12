@@ -12,6 +12,8 @@
 
 - 🔭 I’m working on : **Rubik**.
 
+- ✅ The last project I completed : **[Computorv1](https://github.com/DevJ2K/app_computorv1)**
+
 - 📆 Coding since 2020.
   
 </div>
