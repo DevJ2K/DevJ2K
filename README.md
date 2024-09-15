@@ -76,7 +76,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,figma,github,blender" />
   </a>
 </p>
-
 -->
 
 ---
