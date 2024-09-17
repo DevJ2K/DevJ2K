@@ -53,7 +53,6 @@
 
 <!--
 ---
-
 <h1 align="center">⌨ Technologies & Tools ⌨</h1>
 
 <h3 align="center">My favourites</h3>
