@@ -29,11 +29,14 @@
   <a href="https://www.linkedin.com/in/devj2k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.malt.fr/profile/theoajavon" target="_blank">
+<!--   <a href="https://www.malt.fr/profile/theoajavon" target="_blank">
     <img src="https://img.shields.io/badge/Malt-FB782D?style=for-the-badge&logo=malt&logoColor=white" target="_blank" />
+  </a> -->
+  <a href="https://www.upwork.com/freelancers/~01f52b383f5842e2cf?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-0EBF00?style=for-the-badge&logo=upwork&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.fiverr.com/theo_ajn/develop-an-ios-app-using-swiftui" target="_blank">
-     <img src="https://img.shields.io/badge/Fiverr-0EBF00?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Fiverr-0ad422?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" />
   </a>
   <a href="https://devj2k.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-0C00BF?style=for-the-badge&logo=vuedotjs&logoColor=white" target="_blank" />
