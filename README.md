@@ -10,9 +10,9 @@
 
 - 🏆 My current favorite programming language : **Python**.
 
-- 🔭 I’m working on : **[Rubik](https://github.com/DevJ2K/app_rubik)**
+<!-- - 🔭 I’m working on : ... -->
 
-- ✅ The last project I completed : **[Computorv1](https://github.com/DevJ2K/app_computorv1)**
+- ✅ The latest projects I've done : **[Rubik](https://github.com/DevJ2K/app_rubik)** & **[Computorv1](https://github.com/DevJ2K/app_computorv1)**
 
 - 📆 Coding since 2020.
   
