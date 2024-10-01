@@ -10,7 +10,7 @@
 
 - 🏆 My current favorite programming language : **Python**.
 
-<!-- - 🔭 I’m working on : ... -->
+- 🔭 I’m working on : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)**
 
 - ✅ The latest projects I've done : **[Rubik](https://github.com/DevJ2K/app_rubik)** & **[Computorv1](https://github.com/DevJ2K/app_computorv1)**
 
