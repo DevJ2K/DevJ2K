@@ -63,6 +63,7 @@
     <img src="https://skillicons.dev/icons?i=swift,c,cpp,py,js,firebase,vuejs"/>
   </a>
 </p>
+
 <h3 align="center">Those I've already worked with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
