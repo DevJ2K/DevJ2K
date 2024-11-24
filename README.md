@@ -11,9 +11,9 @@
 - 🏆 My current favorite programming language : **Python**.
 
 <!-- - 🔭 I’m working on : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** https://github.com/DevJ2K/app_gomoku -->
-- 🔭 I’m working on : **[Gomoku](https://github.com/DevJ2K/app_gomoku)**
+- 🔭 I’m working on : **Secret Project...**
 
-- ✅ The latest projects I've done : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** & **[Rubik](https://github.com/DevJ2K/app_rubik)**
+- ✅ The latest projects I've done :  **[Gomoku](https://github.com/DevJ2K/app_gomoku)**, **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** & **[Rubik](https://github.com/DevJ2K/app_rubik)**
 
 - 📆 Coding since 2020.
   
