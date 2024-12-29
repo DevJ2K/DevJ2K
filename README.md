@@ -13,7 +13,7 @@
 <!-- - 🔭 I’m working on : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** https://github.com/DevJ2K/app_gomoku -->
 - 🔭 I’m working on : **...**
 
-- ✅ The latest projects I've done :  **[Gomoku](https://github.com/DevJ2K/app_gomoku)**, **[Learn2Slither](https://github.com/DevJ2K/snakeAI)** & **[Rubik](https://github.com/DevJ2K/app_rubik)**
+- ✅ The latest projects I've done :  **[Gomoku](https://github.com/DevJ2K/app_gomoku)**, **[SnakeAI](https://github.com/DevJ2K/snakeAI)** & **[Rubik](https://github.com/DevJ2K/app_rubik)**
 
 - 📆 Coding since 2020.
   
