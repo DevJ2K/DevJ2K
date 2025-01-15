@@ -8,7 +8,7 @@
 <br/>
 <div align="">
 
-- 🏆 My current favorite programming language : **Python**.
+- 🏆 My favorite programming language : **Python**.
 
 <!-- - 🔭 I’m working on : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** https://github.com/DevJ2K/app_gomoku -->
 - 🔭 I’m working on : **Some private projects...**
