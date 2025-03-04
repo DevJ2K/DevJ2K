@@ -72,7 +72,6 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,threejs,cs,php,selenium" />
   </a>
 </p>
-
 <h3 align="center">My tools and software</h3>
 <p align="center">
   <a href="https://skillicons.dev">
