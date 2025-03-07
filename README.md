@@ -10,7 +10,7 @@
 
 - 🏆 My favorite programming language is **Python**.
 
-- 📚 I'm currently learning **Java**.
+- 📚 I'm currently learning **Java & NuxtJs**.
 <!-- - 🔭 I’m working on : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** https://github.com/DevJ2K/app_gomoku -->
 - 🔭 I’m working on **Some private projects...**
 
