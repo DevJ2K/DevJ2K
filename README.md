@@ -41,7 +41,7 @@
      <img src="https://img.shields.io/badge/Fiverr-0ad422?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" />
   </a>
   <a href="https://devj2k.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-0C00BF?style=for-the-badge&logo=vuedotjs&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-0C00BF?style=for-the-badge&logo=nuxt&logoColor=white" target="_blank" />
   </a>
 </div>
 
