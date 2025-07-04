@@ -10,11 +10,11 @@
 
 - 🏆 My favorite programming language is **Python**.
 
-- 📚 I'm currently coding in **Java, Nuxt & Python**.
+- 📚 I'm currently coding in **Nuxt & Python**.
 <!-- - 🔭 I’m working on : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** https://github.com/DevJ2K/app_gomoku -->
 - 🔭 I’m working on **Some private projects...**
 
-- ✅ The latest projects I've done :  **[Gomoku](https://github.com/DevJ2K/app_gomoku)**, **[SnakeAI](https://github.com/DevJ2K/snakeAI)** & **[Rubik](https://github.com/DevJ2K/app_rubik)**
+- ✅ The latest projects I've done :  **[Portfolio](https://github.com/DevJ2K/portfolio_v2)**, **[Gomoku](https://github.com/DevJ2K/app_gomoku)**, **[SnakeAI](https://github.com/DevJ2K/snakeAI)** & **[Rubik](https://github.com/DevJ2K/app_rubik)**
 
 - 📆 Coding since 2020.
   
