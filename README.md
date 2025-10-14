@@ -49,7 +49,7 @@
 
 <h1 align="center">🌐 Discover Who I Am 🌐</h1>
 <p align="center">
-  <img src="./portfolio_blur.png" alt="Portfolio Thumbnail" style="width:75%;" />
+  <img src="./portfolio.png" alt="Portfolio Thumbnail" style="width:75%;" />
 </p>
 <p align="center"><b>
   Discover everything you need to know about my developer journey on my website: <a href="https://devj2k.com" target="_blank">devj2k.com</a><br> Dive into my projects, see what I've been working on, and learn more about my passion for coding.
