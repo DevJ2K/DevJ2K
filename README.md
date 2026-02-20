@@ -12,7 +12,7 @@
 
 - 📚 I'm currently coding in **React/NextJs, Python & SwiftUI**.
 <!-- - 🔭 I’m working on : **[ft_linear_regression](https://github.com/DevJ2K/ft_linear_regression)** https://github.com/DevJ2K/app_gomoku -->
-- 🔭 I’m working on **ACT. A productivity soon available in App Store.**
+- 🔭 I’m working on **ACT. A productivity app soon available in App Store.**
 
 - ✅ The latest projects I've done :  **[Portfolio](https://github.com/DevJ2K/portfolio_v2)**, **[Gomoku](https://github.com/DevJ2K/app_gomoku)**, **[SnakeAI](https://github.com/DevJ2K/snakeAI)** & **[Rubik](https://github.com/DevJ2K/app_rubik)**
 
